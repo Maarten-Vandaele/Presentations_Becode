@@ -8,6 +8,6 @@ A collection of presentations given by me while doing the Becode course in 2020-
 
 ---
 ## Screenshots
-![Alt text](./assets/VFX_screenshot.PNG?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](./assets/VFX_screenshot.PNG?raw=true "VFX")
+![Alt text](./assets/FSD_screenshot.PNG?raw=true "FSD")
+![Alt text](./assets/Dalle_screenshot.PNG?raw=true "Dall-E")
