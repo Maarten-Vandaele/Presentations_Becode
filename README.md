@@ -8,12 +8,6 @@ A collection of presentations given by me while doing the Becode course in 2020-
 
 ---
 ## Screenshots
-
-##Full self driving
-![Alt text](./assets/FSD_screenshot.PNG?raw=true "FSD")
-
-##AI in VFX
 ![Alt text](./assets/VFX_screenshot.PNG?raw=true "VFX")
 
-##Dall-E
 ![Alt text](./assets/Dalle_screenshot.PNG?raw=true "Dall-E")
